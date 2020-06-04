@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    background-color: black;
+    margin: 200px;
+    padding: 200px;
+}
+
+body {
+    background-image: url(Freddy.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+a {
+    color: white;
+}
